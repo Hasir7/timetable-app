@@ -1,0 +1,483 @@
+[
+
+  {
+
+    "classDay": "Monday",
+
+    "startTime": "09:00 AM",
+
+    "endTime": "10:00 AM",
+
+    "subject_id": 1
+
+  },
+
+  {
+
+    "classDay": "Monday",
+
+    "startTime": "10:00 AM",
+
+    "endTime": "10:15 AM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Monday",
+
+    "startTime": "10:15 AM",
+
+    "endTime": "11:15 AM",
+
+    "subject_id": 3
+
+  },
+
+  {
+
+    "classDay": "Monday",
+
+    "startTime": "11:15 AM",
+
+    "endTime": "12:15 PM",
+
+    "subject_id": 4
+
+  },
+
+  {
+
+    "classDay": "Monday",
+
+    "startTime": "12:15 PM",
+
+    "endTime": "1:15 PM",
+
+    "subject_id": 5
+
+  },
+
+  {
+
+    "classDay": "Monday",
+
+    "startTime": "1:15 PM",
+
+    "endTime": "1:30 PM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Monday",
+
+    "startTime": "1:30 PM",
+
+    "endTime": "2:30 PM",
+
+    "subject_id": 6
+
+  },
+
+  {
+
+    "classDay": "Monday",
+
+    "startTime": "2:30 PM",
+
+    "endTime": "3:30 PM",
+
+    "subject_id": 7
+
+  },
+
+  {
+
+    "classDay": "Tuesday",
+
+    "startTime": "09:00 AM",
+
+    "endTime": "10:00 AM",
+
+    "subject_id": 8
+
+  },
+
+  {
+
+    "classDay": "Tuesday",
+
+    "startTime": "10:00 AM",
+
+    "endTime": "10:15 AM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Tuesday",
+
+    "startTime": "10:15 AM",
+
+    "endTime": "11:15 AM",
+
+    "subject_id": 9
+
+  },
+
+  {
+
+    "classDay": "Tuesday",
+
+    "startTime": "11:15 AM",
+
+    "endTime": "12:15 PM",
+
+    "subject_id": 4
+
+  },
+
+  {
+
+    "classDay": "Tuesday",
+
+    "startTime": "12:15 PM",
+
+    "endTime": "1:15 PM",
+
+    "subject_id": 1
+
+  },
+
+  {
+
+    "classDay": "Tuesday",
+
+    "startTime": "1:15 PM",
+
+    "endTime": "1:30 PM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Tuesday",
+
+    "startTime": "1:30 PM",
+
+    "endTime": "2:30 PM",
+
+    "subject_id": 3
+
+  },
+
+  {
+
+    "classDay": "Tuesday",
+
+    "startTime": "2:30 PM",
+
+    "endTime": "3:30 PM",
+
+    "subject_id": 5
+
+  },
+
+  {
+
+    "classDay": "Wednesday",
+
+    "startTime": "09:00 AM",
+
+    "endTime": "10:00 AM",
+
+    "subject_id": 6
+
+  },
+
+  {
+
+    "classDay": "Wednesday",
+
+    "startTime": "10:00 AM",
+
+    "endTime": "10:15 AM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Wednesday",
+
+    "startTime": "10:15 AM",
+
+    "endTime": "11:15 AM",
+
+    "subject_id": 7
+
+  },
+
+  {
+
+    "classDay": "Wednesday",
+
+    "startTime": "11:15 AM",
+
+    "endTime": "12:15 PM",
+
+    "subject_id": 4
+
+  },
+
+  {
+
+    "classDay": "Wednesday",
+
+    "startTime": "12:15 PM",
+
+    "endTime": "1:15 PM",
+
+    "subject_id": 8
+
+  },
+
+  {
+
+    "classDay": "Wednesday",
+
+    "startTime": "1:15 PM",
+
+    "endTime": "1:30 PM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Wednesday",
+
+    "startTime": "1:30 PM",
+
+    "endTime": "2:30 PM",
+
+    "subject_id": 9
+
+  },
+
+  {
+
+    "classDay": "Wednesday",
+
+    "startTime": "2:30 PM",
+
+    "endTime": "3:30 PM",
+
+    "subject_id": 1
+
+  },
+
+  {
+
+    "classDay": "Thursday",
+
+    "startTime": "09:00 AM",
+
+    "endTime": "10:00 AM",
+
+    "subject_id": 3
+
+  },
+
+  {
+
+    "classDay": "Thursday",
+
+    "startTime": "10:00 AM",
+
+    "endTime": "10:15 AM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Thursday",
+
+    "startTime": "10:15 AM",
+
+    "endTime": "11:15 AM",
+
+    "subject_id": 5
+
+  },
+
+  {
+
+    "classDay": "Thursday",
+
+    "startTime": "11:15 AM",
+
+    "endTime": "12:15 PM",
+
+    "subject_id": 4
+
+  },
+
+  {
+
+    "classDay": "Thursday",
+
+    "startTime": "12:15 PM",
+
+    "endTime": "1:15 PM",
+
+    "subject_id": 6
+
+  },
+
+  {
+
+    "classDay": "Thursday",
+
+    "startTime": "1:15 PM",
+
+    "endTime": "1:30 PM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Thursday",
+
+    "startTime": "1:30 PM",
+
+    "endTime": "2:30 PM",
+
+    "subject_id": 7
+
+  },
+
+  {
+
+    "classDay": "Thursday",
+
+    "startTime": "2:30 PM",
+
+    "endTime": "3:30 PM",
+
+    "subject_id": 8
+
+  },
+
+  {
+
+    "classDay": "Friday",
+
+    "startTime": "09:00 AM",
+
+    "endTime": "10:00 AM",
+
+    "subject_id": 9
+
+  },
+
+  {
+
+    "classDay": "Friday",
+
+    "startTime": "10:00 AM",
+
+    "endTime": "10:15 AM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Friday",
+
+    "startTime": "10:15 AM",
+
+    "endTime": "11:15 AM",
+
+    "subject_id": 1
+
+  },
+
+  {
+
+    "classDay": "Friday",
+
+    "startTime": "11:15 AM",
+
+    "endTime": "12:15 PM",
+
+    "subject_id": 4
+
+  },
+
+  {
+
+    "classDay": "Friday",
+
+    "startTime": "12:15 PM",
+
+    "endTime": "1:15 PM",
+
+    "subject_id": 3
+
+  },
+
+  {
+
+    "classDay": "Friday",
+
+    "startTime": "1:15 PM",
+
+    "endTime": "1:30 PM",
+
+    "subject_id": 2
+
+  },
+
+  {
+
+    "classDay": "Friday",
+
+    "startTime": "1:30 PM",
+
+    "endTime": "2:30 PM",
+
+    "subject_id": 5
+
+  },
+
+  {
+
+    "classDay": "Friday",
+
+    "startTime": "2:30 PM",
+
+    "endTime": "3:30 PM",
+
+    "subject_id": 10
+
+  }
+
+]

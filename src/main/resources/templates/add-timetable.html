@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Add Timetable</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container mt-5">
+    <h1>Add New Timetable</h1>
+    <form th:action="@{/timetable/add}" th:object="${timetable}" method="post">
+        <div class="form-group">
+            <label for="classDay">Class Day</label>
+            <input type="text" th:field="*{classDay}" class="form-control" id="classDay" placeholder="Enter class day" required>
+        </div>
+        <div class="form-group">
+            <label for="startTime">Start Time</label>
+            <input type="text" th:field="*{startTime}" class="form-control" id="startTime" placeholder="Enter start time" required>
+        </div>
+        <div class="form-group">
+            <label for="endTime">End Time</label>
+            <input type="text" th:field="*{endTime}" class="form-control" id="endTime" placeholder="Enter end time" required>
+        </div>
+        <div class="form-group">
+            <label for="subject">Subject</label>
+            <select th:field="*{subject}" class="form-control" id="subject" required>
+                <option th:each="subject : ${subjects}" th:value="${subject}" th:text="${subject.subjectName}">Subject Name</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-success">Add Timetable</button>
+        <a href="/timetable/all" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
+</body>
+</html>
